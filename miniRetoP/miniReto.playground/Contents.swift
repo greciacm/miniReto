@@ -1,5 +1,7 @@
 //: Playground - noun: a place where people can play
 
+//mini Reto
+
 import UIKit
 
 var numeros = 1...100
