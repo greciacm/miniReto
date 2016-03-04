@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 
-//mini Reto
+//mini Reto numeros
 
 import UIKit
 
